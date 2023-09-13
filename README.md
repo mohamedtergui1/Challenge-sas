@@ -1,4 +1,4 @@
-# ex 1 Challenge-Affichage-Informations
+# ex 1 Challenge 1 : Affichage Informations
  # ex 2 Challenge 2 : Affichage Température
 # ex 3 Challenge 3 : Calcule et affichage résultat en format décimal
 # ex 4 Challenge 4 : Moyenne et somme de 4 nombres
