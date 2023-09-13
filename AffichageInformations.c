@@ -9,7 +9,7 @@ int main() {
             printf("entrer votr nome :");scanf("%s",nom);
             printf("entrer votr prenom :");scanf("%s",prenom);
             printf("entrer votr age :");scanf("%d",&age);
-            printf("entrer votr sex (f:m) :"); scanf("%s",&sexe);
+            printf("entrer votr sexe :"); scanf("%s",&sexe);
             printf("entrer votr numero de telephone :");scanf("%d",&numero);
 
 
