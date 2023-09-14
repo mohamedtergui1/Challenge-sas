@@ -14,7 +14,7 @@ int main()
            printf("il a deux solition s1= %.2f \n                   s2= %.2f",s1,s2);
        }
         else {
-           int r = sqrt(delta);
+          
            s1= -b/(2*a);
 
            printf("il a deux solition s1= s2 = %.2f",s1);
