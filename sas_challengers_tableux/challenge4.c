@@ -4,7 +4,7 @@
 int main()
 {   int n,x=0,y=0,z=0;
      printf("entre le nomber des notes:");scanf("%d",&n);
-     if(n==0){
+     if(n==0&&n>20){
         printf("erreur");return 0;
      }
      float tab[n];
