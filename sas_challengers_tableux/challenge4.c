@@ -4,12 +4,13 @@
 int main()
 {   int n,x=0,y=0,z=0;
      printf("entre le nomber des notes:");scanf("%d",&n);
-     if(n==0&&n>20){
-        printf("erreur");return 0;
-     }
+
      float tab[n];
      for (int i=0; i<n;i++){
         printf("entrer la note %d:",i+1);scanf("%f",&tab[i]);
+             if(tab[i]<0||tab[i]>20){
+        printf("erreur");return 0;
+     }
      }
       printf("le nomber des note est:%d",n);
       float somme =0;
